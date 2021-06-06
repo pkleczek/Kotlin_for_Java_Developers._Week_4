@@ -1,0 +1,11 @@
+# Project exclude paths
+/.idea
+/.gradle/
+/Board/Task/build/
+/Board/Task/out/
+/Board/Task/out/production/classes/
+/Board/Task/out/test/classes/
+/Rationals/Task/build/
+/Rationals/Task/out/
+/Rationals/Task/out/production/classes/
+/Rationals/Task/out/test/classes/
